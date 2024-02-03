@@ -141,7 +141,7 @@
 	}
 
 	.slide > img {
-		width: 80vw;
+		width: 226vw;
 	}
 }
 
@@ -307,7 +307,7 @@
 		transform: translate(-24vw, -1vw);
 
 		p {
-			font-size: 1.5rem;
+			font-size: 1.5vw;
 		}
 	}
 
@@ -364,5 +364,22 @@
 		h5 {
 			font-size: 30px;
 		}
+	}
+
+	/*
+	.slide > img {
+		width: 100vw;
+	} */
+	#section_9footer_e-mail .footer_e-mail-flex-text {
+		width: 250vw;
+		gap: 40px;
+	}
+
+	.footer_e-mail-flex-text .contact-us {
+		width: 150px;
+	}
+
+	.footer_e-mail-flex-text h3 {
+		font-size: 1.5vw;
 	}
 }

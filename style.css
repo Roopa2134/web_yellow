@@ -393,7 +393,7 @@ body {
 	width: 50%;
 	height: 15%;
 	margin: 20px 0;
-	font-size: 1.3rem;
+	font-size: 1.3vw;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -717,7 +717,7 @@ form #submit,
 
 #section_9footer_e-mail .footer_e-mail-flex-text {
 	background: #ffff;
-	width: 80vw;
+	width: 88%;
 	display: flex;
 	/* gap: 50px; */
 	justify-content: space-between;
