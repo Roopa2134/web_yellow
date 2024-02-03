@@ -368,13 +368,13 @@ body {
 }
 
 #section_5_flex-img .img-grid-flex .text-black {
-	width: 35vw;
+	width: 50vw;
 	border-radius: 10px;
 	background: #000;
 	color: #fff;
 	padding: 20px;
 	/* margin-right: 5vw; */
-	transform: translate(-15vw, 2vw);
+	transform: translate(-13vw, 2vw);
 }
 
 #section_5_flex-img .img-grid-flex .text-black h1 {
