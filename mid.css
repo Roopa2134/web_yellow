@@ -1,4 +1,4 @@
-@media screen and (max-width: 1199px) {
+@media (max-width: 1199px) {
 	#section_5_flex-img .img-grid-flex .flex_5section_img {
 		gap: 100px;
 	}
@@ -56,7 +56,7 @@
 	}
 }
 
-@media screen and (max-width: 991px) {
+@media (max-width: 991px) {
 	#_2cantener ._2cantener_page-preview {
 		/* height: fit-content; */
 		display: block;
@@ -145,7 +145,7 @@
 	}
 }
 
-@media screen and (max-width: 791px) {
+@media (max-width: 791px) {
 	body {
 		width: fit-content;
 	}
@@ -366,10 +366,6 @@
 		}
 	}
 
-	/*
-	.slide > img {
-		width: 100vw;
-	} */
 	#section_9footer_e-mail .footer_e-mail-flex-text {
 		width: 250vw;
 		gap: 40px;
