@@ -327,7 +327,11 @@ body {
 
 #section_5_flex-img {
 	height: 100%;
-	background: var(--center);
+	background: linear-gradient(to right,
+			#fac23d 0%,
+			#fac23d 50%,
+			#e5e5e5 50%,
+			#e5e5e5 100%);
 }
 
 #section_5_flex-img .color-flex {
@@ -795,3 +799,5 @@ form #submit,
 		color: var(--bg-color);
 	}
 }
+
+/* ========media======= */

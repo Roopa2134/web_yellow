@@ -145,7 +145,7 @@
 	}
 }
 
-@media (max-width: 791px) {
+@media (max-width: 691px) {
 	body {
 		width: fit-content;
 	}
@@ -377,5 +377,11 @@
 
 	.footer_e-mail-flex-text h3 {
 		font-size: 1.5vw;
+	}
+
+	#section_9footer_e-mail .footer_e-mail-flex-text {
+		display: block;
+		width: 50%;
+		text-align: -webkit-center;
 	}
 }
